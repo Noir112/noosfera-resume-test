@@ -1,0 +1,62 @@
+@media screen and (max-width: 1000px) {
+    .section-form .nout{
+        width: 100%;
+    }
+    .section-form .form-wrap{
+        width: 100%;
+        text-align: center;
+    }
+    .section-form .form-wrap label{
+        width: 100%;
+        text-align: center;
+        display: block;
+    }
+    .section-form .form-wrap{
+        padding-bottom: 20px;
+    }
+    .section-2 h1{
+        line-height: 34px;
+    }
+}
+@media screen and (max-width: 700px) {
+    .feature-item{
+        width: 100%;
+        text-align: center;
+    }
+    .client-item{
+        width: 100%;
+        text-align: center;
+    }
+}
+@media screen and (max-width: 600px) {
+        .logo{
+            width: 100%;
+            text-align: center;
+
+        }
+        .logo .lower-text{
+            text-align: center;
+        }
+        .menu{
+            width: 100%;
+        }
+        .menu li{
+            width: 33%;
+            margin: 0;
+            text-align: center;
+
+        }
+        .feature-item img,.client-item img{
+            width: 20%;
+
+        }
+        .feature-item .wrap-item-teature,.client-item .text-info{
+            width: 80%;
+        }
+        .section-5 button{
+            left: 0;
+            width: 100%;
+            margin: 0;
+
+        }
+}
